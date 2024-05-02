@@ -1,0 +1,6 @@
+.container {
+    overflow: hidden; /* Esto evita que el contenedor colapse cuando se utilizan floats */
+	width: 100vw; /* Ancho del 100% del viewport */
+  height: 100vh; /* Alto del 100% del viewport */
+}
+
